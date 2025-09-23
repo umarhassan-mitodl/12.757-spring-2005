@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "legacy_uid": "ca762c55-321e-b881-9e92-23b351a96402",
+  "instructors": {
+    "content": [
+      "32dfd2f1-f3de-0906-854a-384e71ab217a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "558f127b-1f2b-8869-d2ba-2bbc1fc44f16",
+    "website": "12-757-science-and-communication-spring-2005"
+  },
+  "course_title": "Science and Communication",
+  "course_description": "This seminar is intended to help students in the MIT/Woods Hole Oceanographic Institution Joint Program develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication.\n\nThis course is offered through The {{% resource_link \"9faade4e-1a49-46b4-9d84-27d089cdeb73\" \"MIT/WHOI Joint Program\" %}}. The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.757",
+  "course_image_thumbnail": {
+    "content": "7e6ee982-4a24-7a54-7be1-2122aa462300",
+    "website": "12-757-science-and-communication-spring-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e3f6b494-0aec-4af3-8575-d069a911c828",
+  "site_short_id": "12.757-spring-2005",
+  "site_url_path": "courses/12-757-science-and-communication-spring-2005",
+  "title": "Course Metadata"
+}
