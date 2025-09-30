@@ -12,13 +12,13 @@ uid: 18a47853-cc54-6ce5-9348-f02bb40cd46b
 
 This page is a pilot offering of a new initiative for enhancing the value of MIT OCW for educators. Teaching This Course pages like this one will share how MIT educators design, prepare for, teach, and run their courses, in their own words.
 
-Help us develop this project! Send us your feedback or ideas via the {{% resource_link "6e08eb4b-ba88-4bdc-a0d8-68378f27a8be" "OCW Educator Survey" %}} or OCW's {{% resource_link "715862a5-a853-4505-a1ae-d77723dfcc01" "general feedback page" %}}.
+Help us develop this project! Send us your feedback or ideas via the [OCW Educator Survey](http://www.surveymonkey.com/s/BDHXZQ7) or OCW's [general feedback page](https://ocw.mit.edu/contact/).
 
 ## About the Course
 
 This page focuses on the course *\[12.757 Science and Communication\](*{{< baseurl >}}*/)* as it was taught in Spring 2005.
 
-Science and Communication is a seminar course that is intended to help students in the {{% resource_link "90c9eb77-8e45-4a8b-883f-2a419ef1ab79" "MIT/Woods Hole Oceanographic Institution Joint Program" %}} develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication. Learn more about the course in the {{% resource_link "202260a9-d245-0b4d-1fc8-b0988739f73e" "Syllabus" %}}.
+Science and Communication is a seminar course that is intended to help students in the [MIT/Woods Hole Oceanographic Institution Joint Program](http://mit.whoi.edu/) develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication. Learn more about the course in the {{% resource_link "202260a9-d245-0b4d-1fc8-b0988739f73e" "Syllabus" %}}.
 
 ## Teaching Insights
 

@@ -30,7 +30,8 @@
     "website": "12-757-science-and-communication-spring-2005"
   },
   "course_title": "Science and Communication",
-  "course_description": "This seminar is intended to help students in the MIT/Woods Hole Oceanographic Institution Joint Program develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication.\n\nThis course is offered through The {{% resource_link \"9faade4e-1a49-46b4-9d84-27d089cdeb73\" \"MIT/WHOI Joint Program\" %}}. The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
+  "hide_download": true,
+  "course_description": "This seminar is intended to help students in the MIT/Woods Hole Oceanographic Institution Joint Program develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication.\n\nThis course is offered through The [MIT/WHOI Joint Program](http://web.mit.edu/mit-whoi/www/). The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).\n",
   "department_numbers": [
     "12"
   ],
@@ -40,6 +41,7 @@
     "content": "7e6ee982-4a24-7a54-7be1-2122aa462300",
     "website": "12-757-science-and-communication-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "e3f6b494-0aec-4af3-8575-d069a911c828",
   "site_short_id": "12.757-spring-2005",
